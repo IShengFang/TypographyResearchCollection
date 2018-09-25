@@ -46,9 +46,9 @@ This page is a research collection that includes computer graphics, computer vis
 
 - **Easy generation of personal Chinese handwritten fonts**
     - [[paper]](https://ieeexplore.ieee.org/document/6011892/)
-![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/4760fce6c4ce72b17abe9595f1e635b6ecef70fc/3-Figure2-1.png)
     - Baoyao Zhou, Weihong Wang, and Zhanghui Chen
     - 2011 ICME(IEEE International Conference on Multimedia and Expo)
+![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/4760fce6c4ce72b17abe9595f1e635b6ecef70fc/3-Figure2-1.png)
 
 ### Shape Morphing Apporch
 - **Automatic shape morphing for Chinese characters**
@@ -56,6 +56,7 @@ This page is a research collection that includes computer graphics, computer vis
     - Zhouhui Lian, and Zhouhui Lian
     - SIGGRAPH Asia 2012 
 ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/f4de25085605e82bd635666cd5676a7075e77520/2-Figure2-1.png)
+
 ## Struture Learning
 - **Analyzing 50k fonts using deep neural networks**
     - [[blog]](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks.html)
@@ -81,3 +82,4 @@ This page is a research collection that includes computer graphics, computer vis
     - Chang Xiao, Cheng Zhang, Changxi Zheng 
     - SIGGRAPH 2018
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dejrBf9jW24" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
