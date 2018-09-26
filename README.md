@@ -35,7 +35,7 @@ This page is a research collection that includes computer graphics, computer vis
 
 ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/a9c74b454bfaedceb0c06a3d82f133e4c9c0257e/3-Figure4-1.png)
 
-### Composition Approach
+### Other Approach
 - **Automatic Generation of Typographic Font from a Small Font Subset**
     - [[paper]](https://arxiv.org/abs/1701.05703)
     - Tomo Miyazaki, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, Masakazu Iwamura, Seiichi Uchida, Koichi Kise
@@ -50,6 +50,13 @@ This page is a research collection that includes computer graphics, computer vis
 
 ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/616f7c6bf71946430db5561cfa4045a022f29f7f/4-Figure4-1.png)
 
+- **Awesome Typography: Statistics-Based Text Effects Transfer**
+    - [[paper]](https://arxiv.org/pdf/1611.09026.pdf)[[code]](https://github.com/williamyang1991/Text-Effects-Transfer)
+    - Shuai Yang, Jiaying Liu, Zhouhui Lian and Zongming Guo
+    - CVPR 2017
+
+![](https://pbs.twimg.com/media/CydToymWgAAbddo.jpg)
+
 - **Easy generation of personal Chinese handwritten fonts**
     - [[paper]](https://ieeexplore.ieee.org/document/6011892/)
     - Baoyao Zhou, Weihong Wang, and Zhanghui Chen
@@ -57,7 +64,6 @@ This page is a research collection that includes computer graphics, computer vis
 
 ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/4760fce6c4ce72b17abe9595f1e635b6ecef70fc/3-Figure2-1.png)
 
-### Shape Morphing Apporch
 - **Automatic shape morphing for Chinese characters**
     - [[paper]](https://dl.acm.org/citation.cfm?id=2407748)
     - Zhouhui Lian, and Zhouhui Lian
