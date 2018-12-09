@@ -35,6 +35,12 @@ This page is a research collection that includes computer graphics, computer vis
 
 ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/a9c74b454bfaedceb0c06a3d82f133e4c9c0257e/3-Figure4-1.png)
 
+- **A Book from the Sky 天书: Exploring the Latent Space of Chinese Handwriting**
+    - [[blog]](http://genekogan.com/works/a-book-from-the-sky/)
+    - [Gene Kogan](http://genekogan.com/)
+
+![](http://genekogan.com/images/a-book-from-the-sky/banner.png)
+
 ### Other Approach
 - **Automatic Generation of Typographic Font from a Small Font Subset**
     - [[paper]](https://arxiv.org/abs/1701.05703)
