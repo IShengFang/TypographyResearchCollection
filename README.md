@@ -6,6 +6,17 @@ This page is a research collection that includes computer graphics, computer vis
 
 ## Font Stye Transfer and Glyph Generation
 ### NN Approach
+- **Deep Learning for Classical Japanese Literature**
+    - [[paper]](https://arxiv.org/abs/1812.01718)[[GitHub]](https://github.com/rois-codh/kmnist)
+    - Tarin Clanuwat, Mikel Bober-Irizar, Asanobu Kitamoto, Alex Lamb, Kazuaki Yamamoto, David Ha
+    - NeurIPS 2018
+    - Kuzushiji-MNIST,Kuzushiji-49 and Kuzushiji-Kanji
+
+**Kuzushiji-MNIST**
+![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kmnist_examples.png)
+**Kuzushiji-Kanji**
+![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kkanji_examples.png)
+
 - **Multi-Content GAN for Few-Shot Font Style Transfer**
     - [[code]](https://github.com/azadis/MC-GAN)[[paper]](https://arxiv.org/abs/1712.00516)[[blog]](https://bair.berkeley.edu/blog/2018/03/13/mcgan/)
     - Azadi, Samaneh, Matthew Fisher, Vladimir Kim, Zhaowen Wang, Eli Shechtman, and Trevor Darrell.
@@ -97,7 +108,19 @@ This page is a research collection that includes computer graphics, computer vis
     - [[paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwipwtmZ3NXdAhUJyrwKHYBuAp4QFjACegQIAxAC&url=http%3A%2F%2Fblog.sciencenet.cn%2Fhome.php%3Fmod%3Dattachment%26id%3D48833&usg=AOvVaw3z6eOWVROK6CCdPly6Te5n)
     - http://www.nlpr.ia.ac.cn/databases/handwriting/Download.html
 
-![](http://www.nlpr.ia.ac.cn/databases/handwriting/source/image002.jpg)
+![](https://i.imgur.com/jZcj4oo.png)
+
+- **Deep Learning for Classical Japanese Literature**
+    - [[paper]](https://arxiv.org/abs/1812.01718)[[GitHub]](https://github.com/rois-codh/kmnist)
+    - Tarin Clanuwat, Mikel Bober-Irizar, Asanobu Kitamoto, Alex Lamb, Kazuaki Yamamoto, David Ha
+    - NeurIPS 2018
+    - Kuzushiji-MNIST,Kuzushiji-49 and Kuzushiji-Kanji
+
+**Kuzushiji-MNIST**
+![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kmnist_examples.png)
+**Kuzushiji-Kanji**
+![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kkanji_examples.png)
+
 
 ## Other Application
 - **FontCode: Embedding Information in Text Documents Using Glyph Perturbation**
@@ -106,4 +129,3 @@ This page is a research collection that includes computer graphics, computer vis
     - SIGGRAPH 2018
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dejrBf9jW24" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
