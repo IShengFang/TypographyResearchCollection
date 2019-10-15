@@ -6,6 +6,26 @@ This page is a research collection that includes computer graphics, computer vis
 
 ## Font Stye Transfer and Glyph Generation
 ### NN Approach
+- **A Learned Representation for Scalable Vector Graphics**
+    - [[paper]](https://arxiv.org/abs/1904.02632)
+    - Raphael Gontijo Lopes, David Ha, Douglas Eck, Jonathon Shlens
+    - ICCV 2019
+    - ICLR workshop 2019
+![](https://user-images.githubusercontent.com/544269/61917345-9c587780-af87-11e9-96a7-cf406aaa4f97.png)
+    
+- **DeepGlyph**
+    - [[websites]](https://deepglyph.app/)
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T70k-0qgccs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+- **Separating Style and Content for Generalized Style Transfer**
+    - [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Separating_Style_and_CVPR_2018_paper.html)[[code]](https://github.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer)
+    - Yexun Zhang, Ya Zhang, Wenbin Cai
+    - CVPR 2018
+![](https://github.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer/blob/master/images/network.png)
+![](https://github.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer/blob/master/images/area2.png)
+![](https://github.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer/blob/master/images/area4.png)
+    
 - **Deep Learning for Classical Japanese Literature**
     - [[paper]](https://arxiv.org/abs/1812.01718)[[GitHub]](https://github.com/rois-codh/kmnist)
     - Tarin Clanuwat, Mikel Bober-Irizar, Asanobu Kitamoto, Alex Lamb, Kazuaki Yamamoto, David Ha
