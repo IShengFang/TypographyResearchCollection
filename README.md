@@ -6,6 +6,13 @@ This page is a research collection that includes computer graphics, computer vis
 
 ## Font Stye Transfer and Glyph Generation
 ### NN Approach
+
+- **Handwritten Chinese Font Generation with Collaborative Stroke Refinement**
+    - [[paper]](https://arxiv.org/abs/1904.13268)
+    - Chuan Wen, Jie Chang, Ya Zhang, Siheng Chen, Yanfeng Wang, Mei Han, Qi Tian
+    - arxiv
+
+
 - **A Learned Representation for Scalable Vector Graphics**
     - [[paper]](https://arxiv.org/abs/1904.02632)
     - Raphael Gontijo Lopes, David Ha, Douglas Eck, Jonathon Shlens
@@ -14,11 +21,38 @@ This page is a research collection that includes computer graphics, computer vis
 
 ![](https://user-images.githubusercontent.com/544269/61917345-9c587780-af87-11e9-96a7-cf406aaa4f97.png)
     
+- **Large-scale Tag-based Font Retrieval with Generative Feature Learning**
+    - [[paper]](https://arxiv.org/abs/1909.02072)[[page]](https://www.cs.rochester.edu/u/tchen45/font/font.html)
+    - Tianlang Chen, Zhaowen Wang, Ning Xu, Hailin Jin, Jiebo Luo
+    - ICCV 2019
+
+- **DynTypo: Example-based Dynamic Text Effects Transfer**
+    - [[paper]](http://www.icst.pku.edu.cn/zlian/docs/2019-04/20190418093151169110.pdf)
+    - Yifang Men, Zhouhui Lian, Yingmin Tang, Jianguo Xiao
+    - CVPR 2019
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FkFQ6bV1s-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    
 - **DeepGlyph**
     - [[websites]](https://deepglyph.app/)
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T70k-0qgccs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    
+
+- **Coconditional Autoencoding Adversarial Networks for Chinese Font Feature Learning**
+    - [[paper]](https://arxiv.org/abs/1812.04451)
+    - Zhizhan Zheng, Feiyun Zhang
+
+- **TET-GAN: Text Effects Transfer via Stylization and Destylization**
+    - [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3919)
+    - Shuai Yang, Jiaying Liu, Wenjing Wang, Zongming Guo
+    - AAAI2019
+
+- **SCFont: Structure-Guided Chinese Font Generation via Deep Stacked Networks** 
+    - [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4294)
+    - Yue Jiang, Zhouhui Lian*, Yingmin Tang, Jianguo Xiao
+    - AAAI 2019
+
 - **Separating Style and Content for Generalized Style Transfer**
     - [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Separating_Style_and_CVPR_2018_paper.html)[[code]](https://github.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer)
     - Yexun Zhang, Ya Zhang, Wenbin Cai
@@ -51,6 +85,17 @@ This page is a research collection that includes computer graphics, computer vis
 ![](https://bair.berkeley.edu/static/blog/mcgan/given-new-titles.jpg)
 ![](https://bair.berkeley.edu/static/blog/mcgan/ft51_1_fake_B.gif)
 
+- **Learning to Write Stylized Chinese Characters by Reading a Handful of Examples**
+    - [[paper]](https://www.ijcai.org/proceedings/2018/0128.pdf)
+    - Danyang Sun∗, Tongzheng Ren∗, Chongxuan Li, Hang Su†, Jun Zhu†
+    - IJCAI 2018
+    - SA-VAE
+
+- **DCFont: An End-To-End Deep Chinese Font Generation System**
+    - [[paper]](http://www.icst.pku.edu.cn/zlian/docs/20181024110234919639.pdf)
+    - Juncheng Liu, Zhouhui Lian, Jianguo Xiao
+    - SIGGRAPH Asia 2017
+
 - **zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks**
     - [[blog]](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html) [[code]](https://github.com/kaonashi-tyc/zi2zi)
     - Yuchen Tian
@@ -77,6 +122,11 @@ This page is a research collection that includes computer graphics, computer vis
     - [Gene Kogan](http://genekogan.com/)
 
 ![](http://genekogan.com/images/a-book-from-the-sky/banner.png)
+
+- **Letter Spirit: An Emergent Model of the Perception and Creation of Alphabetic Style**
+    - [[paper]](https://pdfs.semanticscholar.org/e03a/21a4dfaa34b3d43ab967a01d7d9f6f7adccf.pdf)
+    - Douglas Hofstadter, Gary McGraw
+    - 1993
 
 ### Other Approach
 - **Automatic Generation of Typographic Font from a Small Font Subset**
@@ -128,6 +178,7 @@ This page is a research collection that includes computer graphics, computer vis
     - SIGGRAPH 2014
 
 ![](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/images/projects/font_hamburgefon_large.png)
+
 
 ## DataSet
 - **Chinese Handwriting Recognition Competition 2013**https://raw.githubusercontent.com/kaonashi-tyc/Rewrite/master/images/single_font_progress.gif
