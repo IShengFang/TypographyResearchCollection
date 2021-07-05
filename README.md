@@ -7,10 +7,69 @@ This page is a research collection that includes computer graphics, computer vis
 ## Font Stye Transfer and Glyph Generation
 ### NN Approach
 
+- **DG-Font: Deformable Generative Networks for Unsupervised Font Generation**
+    - Yangchen Xie, Xinyuan Chen, Li Sun, Yue Lu
+    - [[paper(CVPR)]](https://openaccess.thecvf.com/content/CVPR2021/html/Xie_DG-Font_Deformable_Generative_Networks_for_Unsupervised_Font_Generation_CVPR_2021_paper.html)[[paper(arxiv)]](https://arxiv.org/abs/2104.03064)[[code]](https://github.com/ecnuycxie/DG-Font)
+    - CVPR2021
+
+![](https://i.imgur.com/QLnHf6k.png)
+
+- **Multiple Heads are Better than One:Few-shot Font Generation with Multiple Localized Experts**
+    - Song Park, Sanghyuk Chun, Junbum Cha, Bado Lee, Hyunjung Shim
+    - [[paper]](https://arxiv.org/abs/2104.00887)[[code]](https://github.com/clovaai/mxfont)
+    - arxiv 2021
+
+![](https://i.imgur.com/Pd1y67r.png)
+
+- **Font Style that Fits an Image -- Font Generation Based on Image Context**
+    - [[paper]](https://arxiv.org/abs/2105.08879)[[code]](https://github.com/Taylister/FontFits)
+    - Taiga Miyazono, Brian Kenji Iwana, Daichi Haraguchi, and Seiichi Uchida
+    - arxiv 2021
+![](https://raw.githubusercontent.com/Taylister/FontFits/main/smaple/generated_example.png)
+
+- **Few-shot Font Generation with Localized Style Representations and Factorization**
+    - Song Park*, Sanghyuk Chun*, Junbum Cha, Bado Lee, Hyunjung Shim1
+        - *: equal contribution
+    - [[project page]](https://cvml.yonsei.ac.kr/projects/few-shot-font-generation) [[paper]](https://arxiv.org/abs/2009.11042)[[code]](https://github.com/clovaai/lffont)
+    - AAAI 2021
+    - 
+![](https://i.imgur.com/ZMjQCap.png)
+![](https://i.imgur.com/lkEBLBG.png)
+
+
+
 - **Handwritten Chinese Font Generation with Collaborative Stroke Refinement**
-    - [[paper]](https://arxiv.org/abs/1904.13268)
+    - [[paper]](https://arxiv.org/abs/1904.13268)[[WACV2021]](https://openaccess.thecvf.com/content/WACV2021/html/Wen_Handwritten_Chinese_Font_Generation_With_Collaborative_Stroke_Refinement_WACV_2021_paper.html)[[code(dead)]](https://github.com/s024/fontml-research)
     - Chuan Wen, Jie Chang, Ya Zhang, Siheng Chen, Yanfeng Wang, Mei Han, Qi Tian
-    - arxiv
+    - WACV 2021
+
+![](https://i.imgur.com/7sDYLGj.png)
+![](https://i.imgur.com/93RSv38.png)
+
+
+- **RD-GAN: Few/Zero-Shot Chinese Character Style Transfer via Radical Decomposition and Rendering**
+    - Yaoxiong Huang, Mengchao He, Lianwen Jin, Yongpan Wang
+    - [[paper(ECVA)]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4880_ECCV_2020_paper.php)
+    - ECCV 2020
+
+![](https://i.imgur.com/536F0HD.png)
+
+- **Few-shot Compositional Font Generation with Dual Memory**
+    - Junbum Cha, Sanghyuk Chun, Gayoung Lee, Bado Lee, Seonghyeon Kim, Hwalsuk Lee.
+    - [[paper]](https://arxiv.org/abs/2005.10510) [[code]](https://github.com/clovaai/dmfont)
+    - ECCV 2020 
+![](https://raw.githubusercontent.com/clovaai/dmfont/master/assets/teaser.jpg)
+
+
+![](https://i.imgur.com/JKD8brf.png)
+![](https://i.imgur.com/1cD2G3p.png)
+
+- **CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator**
+    - [[paper]](https://arxiv.org/abs/2005.12500)[[code]](https://github.com/JeanWU/CalliGAN)
+    - Shan-Jean Wu, Chih-Yuan Yang and Jane Yung-jen Hsu
+    - AI for Content Creation Workshop CVPR 2020.
+
+![](https://i.imgur.com/itv9IMn.png)
 
 
 - **A Learned Representation for Scalable Vector Graphics**
@@ -18,7 +77,7 @@ This page is a research collection that includes computer graphics, computer vis
     - Raphael Gontijo Lopes, David Ha, Douglas Eck, Jonathon Shlens
     - ICCV 2019
     - ICLR workshop 2019
-
+    
 ![](https://user-images.githubusercontent.com/544269/61917345-9c587780-af87-11e9-96a7-cf406aaa4f97.png)
     
 - **Large-scale Tag-based Font Retrieval with Generative Feature Learning**
@@ -30,17 +89,16 @@ This page is a research collection that includes computer graphics, computer vis
     - [[paper]](http://www.icst.pku.edu.cn/zlian/docs/2019-04/20190418093151169110.pdf)
     - Yifang Men, Zhouhui Lian, Yingmin Tang, Jianguo Xiao
     - CVPR 2019
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FkFQ6bV1s-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/FkFQ6bV1s-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     
 - **DeepGlyph**
     - [[websites]](https://deepglyph.app/)
-    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T70k-0qgccs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/T70k-0qgccs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **Coconditional Autoencoding Adversarial Networks for Chinese Font Feature Learning**
     - [[paper]](https://arxiv.org/abs/1812.04451)
+    - arxiv 2018
     - Zhizhan Zheng, Feiyun Zhang
 
 - **TET-GAN: Text Effects Transfer via Stylization and Destylization**
@@ -57,13 +115,11 @@ This page is a research collection that includes computer graphics, computer vis
     - [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Separating_Style_and_CVPR_2018_paper.html)[[code]](https://github.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer)
     - Yexun Zhang, Ya Zhang, Wenbin Cai
     - CVPR 2018
-
-**Networks**
-![](https://raw.githubusercontent.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer/master/images/network.png)
-
-**results**
-![](https://raw.githubusercontent.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer/master/images/area2.png)
-![](https://raw.githubusercontent.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer/master/images/area4.png)
+    - Networks
+    ![](https://raw.githubusercontent.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer/master/images/network.png)
+    - results
+    ![](https://raw.githubusercontent.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer/master/images/area2.png)
+    ![](https://raw.githubusercontent.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer/master/images/area4.png)
 
     
 - **Deep Learning for Classical Japanese Literature**
@@ -71,19 +127,17 @@ This page is a research collection that includes computer graphics, computer vis
     - Tarin Clanuwat, Mikel Bober-Irizar, Asanobu Kitamoto, Alex Lamb, Kazuaki Yamamoto, David Ha
     - NeurIPS 2018
     - Kuzushiji-MNIST,Kuzushiji-49 and Kuzushiji-Kanji
-
-**Kuzushiji-MNIST**
-![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kmnist_examples.png)
-**Kuzushiji-Kanji**
-![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kkanji_examples.png)
+    - Kuzushiji-MNIST
+    ![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kmnist_examples.png)
+    - Kuzushiji-Kanji
+    ![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kkanji_examples.png)
 
 - **Multi-Content GAN for Few-Shot Font Style Transfer**
     - [[code]](https://github.com/azadis/MC-GAN)[[paper]](https://arxiv.org/abs/1712.00516)[[blog]](https://bair.berkeley.edu/blog/2018/03/13/mcgan/)
     - Azadi, Samaneh, Matthew Fisher, Vladimir Kim, Zhaowen Wang, Eli Shechtman, and Trevor Darrell.
     - CVPR2018
-
-![](https://bair.berkeley.edu/static/blog/mcgan/given-new-titles.jpg)
-![](https://bair.berkeley.edu/static/blog/mcgan/ft51_1_fake_B.gif)
+    ![](https://bair.berkeley.edu/static/blog/mcgan/given-new-titles.jpg)
+    ![](https://bair.berkeley.edu/static/blog/mcgan/ft51_1_fake_B.gif)
 
 - **Learning to Write Stylized Chinese Characters by Reading a Handful of Examples**
     - [[paper]](https://www.ijcai.org/proceedings/2018/0128.pdf)
@@ -97,18 +151,18 @@ This page is a research collection that includes computer graphics, computer vis
     - SIGGRAPH Asia 2017
 
 - **zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks**
-    - [[blog]](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html) [[code]](https://github.com/kaonashi-tyc/zi2zi)
+    - [[blog]](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html) [[code(TensorFlow)]](https://github.com/kaonashi-tyc/zi2zi) [[code(pytorch)(xuan-li)]](https://github.com/xuan-li/zi2zi-pytorch) [[code(pytorch)( EuphoriaYan)]](https://github.com/EuphoriaYan/zi2zi-pytorch)
     - Yuchen Tian
     - 2017
-
-![](https://kaonashi-tyc.github.io/assets/intro.gif)
+    
+    ![](https://kaonashi-tyc.github.io/assets/intro.gif)
 
 - **Rewrite: Neural Style Transfer For Chinese Fonts**
     - [[code]](https://github.com/kaonashi-tyc/Rewrite)
     - Yuchen Tian
     - 2016
-
-![](https://raw.githubusercontent.com/kaonashi-tyc/Rewrite/master/images/single_font_progress.gif)
+    
+    ![](https://raw.githubusercontent.com/kaonashi-tyc/Rewrite/master/images/single_font_progress.gif)
 
 - **Automatic generation of large-scale handwriting fonts via style learning**
     - [[paper]](https://dl.acm.org/citation.cfm?id=3005371)
@@ -133,57 +187,55 @@ This page is a research collection that includes computer graphics, computer vis
     - [[paper]](https://arxiv.org/abs/1701.05703)
     - Tomo Miyazaki, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, Masakazu Iwamura, Seiichi Uchida, Koichi Kise
     - 2017
-
-![](https://pbs.twimg.com/media/C22YtOvWEAA8XsT.jpg)
+    
+    ![](https://pbs.twimg.com/media/C22YtOvWEAA8XsT.jpg)
 
 - **FlexyFont: Learning Transferring Rules for Flexible Typeface Synthesis**
     - [[paper]](https://doi.org/10.1111/cgf.12763)
     - H. Q. Phan, H. Fu, and A. B. Chan
     - 2015 Computer Graphics Forum
-
-![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/616f7c6bf71946430db5561cfa4045a022f29f7f/4-Figure4-1.png)
+    
+    ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/616f7c6bf71946430db5561cfa4045a022f29f7f/4-Figure4-1.png)
 
 - **Awesome Typography: Statistics-Based Text Effects Transfer**
     - [[paper]](https://arxiv.org/pdf/1611.09026.pdf)[[code]](https://github.com/williamyang1991/Text-Effects-Transfer)
     - Shuai Yang, Jiaying Liu, Zhouhui Lian and Zongming Guo
     - CVPR 2017
-
-![](https://pbs.twimg.com/media/CydToymWgAAbddo.jpg)
+    
+    ![](https://pbs.twimg.com/media/CydToymWgAAbddo.jpg)
 
 - **Easy generation of personal Chinese handwritten fonts**
     - [[paper]](https://ieeexplore.ieee.org/document/6011892/)
     - Baoyao Zhou, Weihong Wang, and Zhanghui Chen
     - 2011 ICME(IEEE International Conference on Multimedia and Expo)
-
-![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/4760fce6c4ce72b17abe9595f1e635b6ecef70fc/3-Figure2-1.png)
+    
+    ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/4760fce6c4ce72b17abe9595f1e635b6ecef70fc/3-Figure2-1.png)
 
 - **Automatic shape morphing for Chinese characters**
     - [[paper]](https://dl.acm.org/citation.cfm?id=2407748)
     - Zhouhui Lian, and Zhouhui Lian
     - SIGGRAPH Asia 2012 
-
-![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/f4de25085605e82bd635666cd5676a7075e77520/2-Figure2-1.png)
+    - ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/f4de25085605e82bd635666cd5676a7075e77520/2-Figure2-1.png)
 
 ## Struture Learning
 - **Analyzing 50k fonts using deep neural networks**
     - [[blog]](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks.html)
     - [Erik Bernhardsson](https://erikbern.com/about.html)
     - 2016
-
-![](https://erikbern.com/assets/animated_font.gif)
+    
+    ![](https://erikbern.com/assets/animated_font.gif)
 
 - **Learning a Manifold of Fonts**
     - [[paper]](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/papers/siggraph14_learning_fonts.pdf)[[project(demo)]](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html)
     - Neill D.F. Campbell, and Jan Kautz
     - SIGGRAPH 2014
-
-![](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/images/projects/font_hamburgefon_large.png)
+    
+    ![](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/images/projects/font_hamburgefon_large.png)
 
 
 ## DataSet
-- **Chinese Handwriting Recognition Competition 2013**https://raw.githubusercontent.com/kaonashi-tyc/Rewrite/master/images/single_font_progress.gif
-    - [[paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwipwtmZ3NXdAhUJyrwKHYBuAp4QFjACegQIAxAC&url=http%3A%2F%2Fblog.sciencenet.cn%2Fhome.php%3Fmod%3Dattachment%26id%3D48833&usg=AOvVaw3z6eOWVROK6CCdPly6Te5n)
-    - http://www.nlpr.ia.ac.cn/databases/handwriting/Download.html
+- **Chinese Handwriting Recognition Competition 2013**
+    - [[paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwipwtmZ3NXdAhUJyrwKHYBuAp4QFjACegQIAxAC&url=http%3A%2F%2Fblog.sciencenet.cn%2Fhome.php%3Fmod%3Dattachment%26id%3D48833&usg=AOvVaw3z6eOWVROK6CCdPly6Te5n)[[download]](http://www.nlpr.ia.ac.cn/databases/handwriting/Download.html)
 
 ![](https://i.imgur.com/jZcj4oo.png)
 
@@ -192,11 +244,10 @@ This page is a research collection that includes computer graphics, computer vis
     - Tarin Clanuwat, Mikel Bober-Irizar, Asanobu Kitamoto, Alex Lamb, Kazuaki Yamamoto, David Ha
     - NeurIPS 2018
     - Kuzushiji-MNIST,Kuzushiji-49 and Kuzushiji-Kanji
-
-**Kuzushiji-MNIST**
-![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kmnist_examples.png)
-**Kuzushiji-Kanji**
-![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kkanji_examples.png)
+    - Kuzushiji-MNIST
+    ![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kmnist_examples.png)
+    - Kuzushiji-Kanji
+    ![](https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kkanji_examples.png)
 
 
 ## Other Application
@@ -204,5 +255,5 @@ This page is a research collection that includes computer graphics, computer vis
     - [[paper]](http://www.cs.columbia.edu/cg/fontcode/fontcode.pdf)[[project page]](http://www.cs.columbia.edu/cg/fontcode/)
     - Chang Xiao, Cheng Zhang, Changxi Zheng 
     - SIGGRAPH 2018
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/dejrBf9jW24" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dejrBf9jW24" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
