@@ -13,12 +13,13 @@ This page is a research collection that includes computer graphics, computer vis
 
 ![](https://github.com/tyxsspa/AnyText/blob/main/docs/framework.jpg?raw=true)
 
-- **DeepFloyd IF**
-    - Inspired by "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding", NeurIPS2022
-        - aka Imagen
-    - [[code]](https://github.com/deep-floyd/IF?tab=readme-ov-file)
+- **GlyphControl: Glyph Conditional Control for Visual Text Generation**
+    - Yukang Yang, Dongnan Gui, Yuhui Yuan, Weicong Liang, Haisong Ding, Han Hu, Kai Chen
+    - NeurIPS 2023
+    - [[paper]](https://arxiv.org/pdf/2305.18259.pdf)[[code]](https://github.com/AIGText/GlyphControl-release)
 
-![](https://github.com/deep-floyd/IF/blob/develop/pics/deepfloyd_if_scheme.jpg?raw=true)
+![](https://github.com/AIGText/GlyphControl-release/blob/main/readme_files/architecture-n.png?raw=true)
+
 
 - **DiffUTE: Universal Text Editing Diffusion Model**
     - Haoxing Chen, Zhuoer Xu1, Zhangxuan Gu*, Jun Lan, Xing Zheng, Yaohui Li, Changhua Meng, Huijia Zhu, Weiqiang Wang
@@ -43,6 +44,13 @@ This page is a research collection that includes computer graphics, computer vis
 
 ![](https://1073521013.github.io/glyph-draw.github.io/img/example1.681b4aa6.png)
 
+
+- **DeepFloyd IF**
+    - Inspired by "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding", NeurIPS2022
+        - aka Imagen
+    - [[code]](https://github.com/deep-floyd/IF?tab=readme-ov-file)
+
+![](https://github.com/deep-floyd/IF/blob/develop/pics/deepfloyd_if_scheme.jpg?raw=true)
 
 - **Character-Aware Models Improve Visual Text Rendering**
     - arxiv 
