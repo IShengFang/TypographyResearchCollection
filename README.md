@@ -1,8 +1,63 @@
 # Typography Research Collection
-[[hackmd]](https://hackmd.io/s/B1BZCZpPX)[[github]](https://github.com/IShengFang/TypographyResearchCollection) [[github pages]](https://ishengfang.github.io/TypographyResearchCollection/)
+[[hackmd]](https://hackmd.io/s/B1BZCZpPX)[[github]](https://github.com/IShengFang/TypographyResearchCollection)[[github pages]](https://ishengfang.github.io/TypographyResearchCollection/)
 
 Typography is the cross between technology and liberal arts. 
 This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
+
+## Visual Text Generation and Editing
+
+- **AnyText: Multilingual Visual Text Generation And Editing**
+    - Yuxiang Tuo, Wangmeng Xiang, Jun-Yan He, Yifeng Geng∗, Xuansong Xie
+    - arxiv 2023
+    - [[paper]](https://arxiv.org/abs/2311.03054)[[code]](https://github.com/tyxsspa/AnyText?tab=readme-ov-file) [[demo]](https://modelscope.cn/studios/damo/studio_anytext/summary)
+
+![](https://github.com/tyxsspa/AnyText/blob/main/docs/sample.jpg?raw=true)
+
+- **DeepFloyd IF**
+    - Inspired by "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding", NeurIPS2022
+        - aka Imagen
+    - [[code]](https://github.com/deep-floyd/IF?tab=readme-ov-file)
+
+![](https://github.com/deep-floyd/IF/blob/develop/pics/deepfloyd_if_scheme.jpg?raw=true)
+
+- **Character-Aware Models Improve Visual Text Rendering**
+    - arxiv 
+    - Rosanne Liu∗, Dan Garrette∗, Chitwan Saharia, William Chan, Adam Roberts, Sharan Narang, Irina Blok, RJ Mical, Mohammad Norouzi, Noah Constant∗
+        - *Equal contribution
+    - [[paper]](https://arxiv.org/pdf/2212.10562.pdf)
+
+![](https://hackmd.io/_uploads/B1zS_fZua.png)
+
+- **GlyphDraw: Learning to Draw Chinese Characters in Image Synthesis Models Coherently**
+    - Jian Ma, Mingjun Zhao, Chen Chen, Ruichen Wang, Di Niu, Haonan Lu, Xiaodong Lin
+    - arxiv 2023
+    - [[project page]](https://1073521013.github.io/glyph-draw.github.io/)[[paper]](https://arxiv.org/abs/2303.17870)[[code]](https://github.com/1073521013/GlyphDraw)
+
+![](https://1073521013.github.io/glyph-draw.github.io/img/example1.681b4aa6.png)
+
+- **DiffUTE: Universal Text Editing Diffusion Model**
+    - Haoxing Chen, Zhuoer Xu1, Zhangxuan Gu*, Jun Lan, Xing Zheng, Yaohui Li, Changhua Meng, Huijia Zhu, Weiqiang Wang
+        - ∗Corresponding author
+    - NeurIPS 2023
+    - [[paper]](https://arxiv.org/abs/2305.10825)[[code]](https://github.com/chenhaoxing/DiffUTE/tree/main)
+
+![](https://github.com/chenhaoxing/DiffUTE/blob/main/docs/ute.png?raw=true)
+
+- **TextDiffuser: Diffusion Models as Text Painters**
+    - Jingye Chen*, Yupan Huang*, Tengchao Lv, Lei Cui, Qifeng Chen, Furu Wei
+        - *Equal Contribution
+    - arXiv 2023
+    - [[project page]](https://jingyechen.github.io/textdiffuser/)[[paper]](https://arxiv.org/abs/2305.10855)[[code]](https://github.com/microsoft/unilm/tree/master/textdiffuser)[[demo]](https://huggingface.co/spaces/JingyeChen22/TextDiffuser)[[colab]](https://colab.research.google.com/drive/115Qw0l5dhjlTtrbywMWRwhz9IxKE4_Dg?usp=sharing)
+
+![](https://jingyechen.github.io/textdiffuser/static/images/architecture.jpg)
+
+
+- **OCR-VQGAN: Taming Text-within-Image Generation**
+    - Juan A. Rodríguez, David Vázquez, Issam Laradji, Marco Pedersoli, Pau Rodríguez
+    - WACV2023
+    - [[paper(CVF)]](https://openaccess.thecvf.com/content/WACV2023/papers/Rodriguez_OCR-VQGAN_Taming_Text-Within-Image_Generation_WACV_2023_paper.pdf) [[paper(arxiv)]](https://arxiv.org/abs/2210.11248) [[code]](https://github.com/joanrod/ocr-vqgan)
+
+![](https://github.com/joanrod/ocr-vqgan/raw/master/assets/ocr_v2.png)
 
 ## Font Stye Transfer and Glyph Generation
 ### NN Approach
