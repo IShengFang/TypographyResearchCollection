@@ -8,7 +8,7 @@ This page is a research collection that includes computer graphics, computer vis
 
 - **AnyText: Multilingual Visual Text Generation And Editing**
     - Yuxiang Tuo, Wangmeng Xiang, Jun-Yan He, Yifeng Geng∗, Xuansong Xie
-    - arxiv 2023
+    - ICLR 2024
     - [[paper]](https://arxiv.org/abs/2311.03054)[[code]](https://github.com/tyxsspa/AnyText?tab=readme-ov-file)[[demo]](https://modelscope.cn/studios/damo/studio_anytext/summary)
 
 ![](https://github.com/tyxsspa/AnyText/blob/main/docs/framework.jpg?raw=true)
