@@ -6,6 +6,10 @@ This page is a research collection that includes computer graphics, computer vis
 
 ## Visual Text Generation and Editing
 
+- **Generate Like Experts: Multi-Stage Font Generation by Incorporating Font Transfer Process into Diffusion Models**
+    - Bin Fu, Fanghua Yu, Anran Liu, Zixuan Wang, Jie Wen, Junjun He, Yu Qiao
+    - CVPR 2024
+
 - **VecFusion: Vector Font Generation with Diffusion**
     - Vikas Thamizharasan, Difan Liu, Shantanu Agarwal, Matthew Fisher, Michael Gharbi, Oliver Wang, Alec Jacobson, Evangelos Kalogerakis
     - CVPR 2024
