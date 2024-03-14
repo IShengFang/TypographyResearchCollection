@@ -6,6 +6,20 @@ This page is a research collection that includes computer graphics, computer vis
 
 ## Visual Text Generation and Editing
 
+- **VecFusion: Vector Font Generation with Diffusion**
+    - Vikas Thamizharasan, Difan Liu, Shantanu Agarwal, Matthew Fisher, Michael Gharbi, Oliver Wang, Alec Jacobson, Evangelos Kalogerakis
+    - CVPR 2024
+    - [[arxiv]](https://arxiv.org/abs/2312.10540)
+
+![](https://arxiv.org/html/2312.10540v1/x2.png)
+
+- **FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**
+    - Zhenhua Yang, Dezhi Peng, Yuxin Kong, Yuyi Zhang, Cong Yao, Lianwen Jin
+    - AAAI 2024  
+    - [[project page]](https://yeungchenwa.github.io/fontdiffuser-homepage/)[[arxiv]](https://arxiv.org/abs/2312.12142)[[code]](https://github.com/yeungchenwa/FontDiffuser)[[demo]](https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio)
+
+![](https://github.com/yeungchenwa/FontDiffuser/blob/main/figures/with_instructpix2pix.png?raw=true)
+
 - **AnyText: Multilingual Visual Text Generation And Editing**
     - Yuxiang Tuo, Wangmeng Xiang, Jun-Yan He, Yifeng Geng∗, Xuansong Xie
     - ICLR 2024
