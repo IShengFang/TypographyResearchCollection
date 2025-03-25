@@ -22,34 +22,6 @@ If you discover relevant new work, please feel free to contact the major maintai
 
 ## Visual Text Generation and Editing
 
-- **TypeDance: Creating Semantic Typographic Logos from Image throughPersonalized Generation**
-    - Shishi Xiao, Liangwei Wang, Xiaojuan Ma, Wei Zeng
-    - CHI 2024
-    - [[arxiv]](https://arxiv.org/abs/2401.11094) [[code]](https://github.com/SerendipitysX/TypeDance)
-
-![](https://github.com/SerendipitysX/TypeDance/raw/main/figures/teaser.png)
-
-- **Generate Like Experts: Multi-Stage Font Generation by Incorporating Font Transfer Process into Diffusion Models**
-    - Bin Fu, Fanghua Yu, Anran Liu, Zixuan Wang, Jie Wen, Junjun He, Yu Qiao
-    - [CVPR 2024](https://cvpr.thecvf.com/virtual/2024/poster/30809)
-    - [[CVF]](https://openaccess.thecvf.com/content/CVPR2024/html/Fu_Generate_Like_Experts_Multi-Stage_Font_Generation_by_Incorporating_Font_Transfer_CVPR_2024_paper.html)[[code]](https://github.com/fubinfb/MSD-Font)
-
-![](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30809.png)
-
-- **VecFusion: Vector Font Generation with Diffusion**
-    - Vikas Thamizharasan, Difan Liu, Shantanu Agarwal, Matthew Fisher, Michael Gharbi, Oliver Wang, Alec Jacobson, Evangelos Kalogerakis
-    - [CVPR 2024](https://cvpr.thecvf.com/virtual/2024/poster/30338)
-    - [[arxiv]](https://arxiv.org/abs/2312.10540) [[project page]](https://vikastmz.github.io/VecFusion/)
-
-![](https://arxiv.org/html/2312.10540v1/x2.png)
-
-- **FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**
-    - Zhenhua Yang, Dezhi Peng, Yuxin Kong, Yuyi Zhang, Cong Yao, Lianwen Jin
-    - AAAI 2024  
-    - [[project page]](https://yeungchenwa.github.io/fontdiffuser-homepage/)[[arxiv]](https://arxiv.org/abs/2312.12142)[[code]](https://github.com/yeungchenwa/FontDiffuser)[[demo]](https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio)
-
-![](https://github.com/yeungchenwa/FontDiffuser/blob/main/figures/with_instructpix2pix.png?raw=true)
-
 - **AnyText: Multilingual Visual Text Generation And Editing**
     - Yuxiang Tuo, Wangmeng Xiang, Jun-Yan He, Yifeng Geng∗, Xuansong Xie
     - ICLR 2024
@@ -113,6 +85,34 @@ If you discover relevant new work, please feel free to contact the major maintai
 
 ## Font Stye Transfer and Glyph Generation
 ### NN Approach
+
+- **TypeDance: Creating Semantic Typographic Logos from Image through Personalized Generation**
+    - Shishi Xiao, Liangwei Wang, Xiaojuan Ma, Wei Zeng
+    - CHI 2024
+    - [[arxiv]](https://arxiv.org/abs/2401.11094) [[code]](https://github.com/SerendipitysX/TypeDance)
+
+![](https://github.com/SerendipitysX/TypeDance/raw/main/figures/teaser.png)
+
+- **Generate Like Experts: Multi-Stage Font Generation by Incorporating Font Transfer Process into Diffusion Models**
+    - Bin Fu, Fanghua Yu, Anran Liu, Zixuan Wang, Jie Wen, Junjun He, Yu Qiao
+    - [CVPR 2024](https://cvpr.thecvf.com/virtual/2024/poster/30809)
+    - [[CVF]](https://openaccess.thecvf.com/content/CVPR2024/html/Fu_Generate_Like_Experts_Multi-Stage_Font_Generation_by_Incorporating_Font_Transfer_CVPR_2024_paper.html)[[code]](https://github.com/fubinfb/MSD-Font)
+
+![](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30809.png)
+
+- **VecFusion: Vector Font Generation with Diffusion**
+    - Vikas Thamizharasan, Difan Liu, Shantanu Agarwal, Matthew Fisher, Michael Gharbi, Oliver Wang, Alec Jacobson, Evangelos Kalogerakis
+    - [CVPR 2024](https://cvpr.thecvf.com/virtual/2024/poster/30338)
+    - [[arxiv]](https://arxiv.org/abs/2312.10540) [[project page]](https://vikastmz.github.io/VecFusion/)
+
+![](https://arxiv.org/html/2312.10540v1/x2.png)
+
+- **FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**
+    - Zhenhua Yang, Dezhi Peng, Yuxin Kong, Yuyi Zhang, Cong Yao, Lianwen Jin
+    - AAAI 2024  
+    - [[project page]](https://yeungchenwa.github.io/fontdiffuser-homepage/)[[arxiv]](https://arxiv.org/abs/2312.12142)[[code]](https://github.com/yeungchenwa/FontDiffuser)[[demo]](https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio)
+
+![](https://github.com/yeungchenwa/FontDiffuser/blob/main/figures/with_instructpix2pix.png?raw=true)
 
 - **DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion**
     - Maham Tanveer, Yizhi Wang, Ali Mahdavi-Amiri, Hao Zhang
