@@ -3,7 +3,7 @@
 
 Typography is the cross between technology and liberal arts. 
 This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
-If anyone found new research, please email it to me. 🙂
+If you discover relevant new work, please feel free to contact the major maintainer, [I-Sheng Fang](https://ishengfang.github.io/). 🙂
 
 ## Visual Text Generation and Editing
 
