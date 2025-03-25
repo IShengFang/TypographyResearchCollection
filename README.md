@@ -6,19 +6,21 @@ This page is a research collection that includes computer graphics, computer vis
 If you discover relevant new work, please feel free to contact the major maintainer, [I-Sheng Fang](https://ishengfang.github.io/). 🙂
 
 ## Contents
+- [Large Language Model](#large-language-model)
 - [Visual Text Generation and Editing](#visual-text-generation-and-editing)
 - [Font Stye Transfer and Glyph Generation](#font-stye-transfer-and-glyph-generation)
     - [NN Approach](#nn-approach)
     - [Other Approach](#other-approach)
 - [Struture Learning](#struture-learning)
-- [DataSet](#dataset)
+- [Dataset](#dataset)
 - [Other Application](#other-application)
 
-## Visual Text Generation and Editing
-
+## Large Language Model
 - **Font-Agent: Enhancing Font Understanding with Large Language Models**
     - Yingxin Lai · Cuijie Xu · Haitian Shi · Guoqing Yang · Xiaoning Li · Zhiming Luo · Shaozi Li
     - CVPR 2025
+
+## Visual Text Generation and Editing
 
 - **TypeDance: Creating Semantic Typographic Logos from Image throughPersonalized Generation**
     - Shishi Xiao, Liangwei Wang, Xiaojuan Ma, Wei Zeng
@@ -396,7 +398,7 @@ If you discover relevant new work, please feel free to contact the major maintai
     ![](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/images/projects/font_hamburgefon_large.png)
 
 
-## DataSet
+## Dataset
 - **Chinese Handwriting Recognition Competition 2013**
     - [[paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwipwtmZ3NXdAhUJyrwKHYBuAp4QFjACegQIAxAC&url=http%3A%2F%2Fblog.sciencenet.cn%2Fhome.php%3Fmod%3Dattachment%26id%3D48833&usg=AOvVaw3z6eOWVROK6CCdPly6Te5n)[[download]](http://www.nlpr.ia.ac.cn/databases/handwriting/Download.html)
 
