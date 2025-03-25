@@ -5,6 +5,15 @@ Typography is the cross between technology and liberal arts.
 This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
 If you discover relevant new work, please feel free to contact the major maintainer, [I-Sheng Fang](https://ishengfang.github.io/). 🙂
 
+## Contents
+- [Visual Text Generation and Editing](#visual-text-generation-and-editing)
+- [Font Stye Transfer and Glyph Generation](#font-stye-transfer-and-glyph-generation)
+    - [NN Approach](#nn-approach)
+    - [Other Approach](#other-approach)
+- [Struture Learning](#struture-learning)
+- [DataSet](#dataset)
+- [Other Application](#other-application)
+
 ## Visual Text Generation and Editing
 
 - **Font-Agent: Enhancing Font Understanding with Large Language Models**
@@ -197,11 +206,6 @@ If you discover relevant new work, please feel free to contact the major maintai
 ![](https://i.imgur.com/JKD8brf.png)
 ![](https://i.imgur.com/1cD2G3p.png)
 
-- **Deep Factorization of Style and Structure in Fonts**
-    - [[paper]](https://arxiv.org/abs/1910.00748)
-    - Nikita Srivatsan, Jonathan T. Barron, Dan Klein, Taylor Berg-Kirkpatrick
-    - EMNLP 2019
-
 - **A Learned Representation for Scalable Vector Graphics**
     - [[paper]](https://arxiv.org/abs/1904.02632)
     - Raphael Gontijo Lopes, David Ha, Douglas Eck, Jonathon Shlens
@@ -372,6 +376,11 @@ If you discover relevant new work, please feel free to contact the major maintai
     - ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/f4de25085605e82bd635666cd5676a7075e77520/2-Figure2-1.png)
 
 ## Struture Learning
+- **Deep Factorization of Style and Structure in Fonts**
+    - [[paper]](https://arxiv.org/abs/1910.00748)
+    - Nikita Srivatsan, Jonathan T. Barron, Dan Klein, Taylor Berg-Kirkpatrick
+    - EMNLP 2019
+
 - **Analyzing 50k fonts using deep neural networks**
     - [[blog]](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks.html)
     - [Erik Bernhardsson](https://erikbern.com/about.html)
