@@ -5,39 +5,27 @@ Typography is the cross between technology and liberal arts.
 This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
 If you discover relevant new work, please feel free to contact the major maintainer, [I-Sheng Fang](https://ishengfang.github.io/). 🙂
 
-## Visual Text Generation and Editing
+## Contents
+- [Large Language Model](#large-language-model)
+- [Visual Text Generation and Editing](#visual-text-generation-and-editing)
+- [Font Stye Transfer and Glyph Generation](#font-stye-transfer-and-glyph-generation)
+    - [NN Approach](#nn-approach)
+    - [Other Approach](#other-approach)
+- [Struture Learning](#struture-learning)
+- [Dataset](#dataset)
+- [Other Application](#other-application)
+
+## Large Language Model
+
+### 2025
 
 - **Font-Agent: Enhancing Font Understanding with Large Language Models**
     - Yingxin Lai · Cuijie Xu · Haitian Shi · Guoqing Yang · Xiaoning Li · Zhiming Luo · Shaozi Li
     - CVPR 2025
 
-- **TypeDance: Creating Semantic Typographic Logos from Image throughPersonalized Generation**
-    - Shishi Xiao, Liangwei Wang, Xiaojuan Ma, Wei Zeng
-    - CHI 2024
-    - [[arxiv]](https://arxiv.org/abs/2401.11094) [[code]](https://github.com/SerendipitysX/TypeDance)
+## Visual Text Generation and Editing
 
-![](https://github.com/SerendipitysX/TypeDance/raw/main/figures/teaser.png)
-
-- **Generate Like Experts: Multi-Stage Font Generation by Incorporating Font Transfer Process into Diffusion Models**
-    - Bin Fu, Fanghua Yu, Anran Liu, Zixuan Wang, Jie Wen, Junjun He, Yu Qiao
-    - [CVPR 2024](https://cvpr.thecvf.com/virtual/2024/poster/30809)
-    - [[CVF]](https://openaccess.thecvf.com/content/CVPR2024/html/Fu_Generate_Like_Experts_Multi-Stage_Font_Generation_by_Incorporating_Font_Transfer_CVPR_2024_paper.html)[[code]](https://github.com/fubinfb/MSD-Font)
-
-![](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30809.png)
-
-- **VecFusion: Vector Font Generation with Diffusion**
-    - Vikas Thamizharasan, Difan Liu, Shantanu Agarwal, Matthew Fisher, Michael Gharbi, Oliver Wang, Alec Jacobson, Evangelos Kalogerakis
-    - [CVPR 2024](https://cvpr.thecvf.com/virtual/2024/poster/30338)
-    - [[arxiv]](https://arxiv.org/abs/2312.10540) [[project page]](https://vikastmz.github.io/VecFusion/)
-
-![](https://arxiv.org/html/2312.10540v1/x2.png)
-
-- **FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**
-    - Zhenhua Yang, Dezhi Peng, Yuxin Kong, Yuyi Zhang, Cong Yao, Lianwen Jin
-    - AAAI 2024  
-    - [[project page]](https://yeungchenwa.github.io/fontdiffuser-homepage/)[[arxiv]](https://arxiv.org/abs/2312.12142)[[code]](https://github.com/yeungchenwa/FontDiffuser)[[demo]](https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio)
-
-![](https://github.com/yeungchenwa/FontDiffuser/blob/main/figures/with_instructpix2pix.png?raw=true)
+### 2024
 
 - **AnyText: Multilingual Visual Text Generation And Editing**
     - Yuxiang Tuo, Wangmeng Xiang, Jun-Yan He, Yifeng Geng∗, Xuansong Xie
@@ -45,6 +33,8 @@ If you discover relevant new work, please feel free to contact the major maintai
     - [[paper]](https://arxiv.org/abs/2311.03054)[[code]](https://github.com/tyxsspa/AnyText?tab=readme-ov-file)[[demo]](https://modelscope.cn/studios/damo/studio_anytext/summary)
 
 ![](https://github.com/tyxsspa/AnyText/blob/main/docs/framework.jpg?raw=true)
+
+### 2023
 
 - **GlyphControl: Glyph Conditional Control for Visual Text Generation**
     - Yukang Yang, Dongnan Gui, Yuhui Yuan, Weicong Liang, Haisong Ding, Han Hu, Kai Chen
@@ -103,6 +93,38 @@ If you discover relevant new work, please feel free to contact the major maintai
 ## Font Stye Transfer and Glyph Generation
 ### NN Approach
 
+#### 2024
+
+- **TypeDance: Creating Semantic Typographic Logos from Image through Personalized Generation**
+    - Shishi Xiao, Liangwei Wang, Xiaojuan Ma, Wei Zeng
+    - CHI 2024
+    - [[arxiv]](https://arxiv.org/abs/2401.11094) [[code]](https://github.com/SerendipitysX/TypeDance)
+
+![](https://github.com/SerendipitysX/TypeDance/raw/main/figures/teaser.png)
+
+- **Generate Like Experts: Multi-Stage Font Generation by Incorporating Font Transfer Process into Diffusion Models**
+    - Bin Fu, Fanghua Yu, Anran Liu, Zixuan Wang, Jie Wen, Junjun He, Yu Qiao
+    - [CVPR 2024](https://cvpr.thecvf.com/virtual/2024/poster/30809)
+    - [[CVF]](https://openaccess.thecvf.com/content/CVPR2024/html/Fu_Generate_Like_Experts_Multi-Stage_Font_Generation_by_Incorporating_Font_Transfer_CVPR_2024_paper.html)[[code]](https://github.com/fubinfb/MSD-Font)
+
+![](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30809.png)
+
+- **VecFusion: Vector Font Generation with Diffusion**
+    - Vikas Thamizharasan, Difan Liu, Shantanu Agarwal, Matthew Fisher, Michael Gharbi, Oliver Wang, Alec Jacobson, Evangelos Kalogerakis
+    - [CVPR 2024](https://cvpr.thecvf.com/virtual/2024/poster/30338)
+    - [[arxiv]](https://arxiv.org/abs/2312.10540) [[project page]](https://vikastmz.github.io/VecFusion/)
+
+![](https://arxiv.org/html/2312.10540v1/x2.png)
+
+- **FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**
+    - Zhenhua Yang, Dezhi Peng, Yuxin Kong, Yuyi Zhang, Cong Yao, Lianwen Jin
+    - AAAI 2024  
+    - [[project page]](https://yeungchenwa.github.io/fontdiffuser-homepage/)[[arxiv]](https://arxiv.org/abs/2312.12142)[[code]](https://github.com/yeungchenwa/FontDiffuser)[[demo]](https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio)
+
+![](https://github.com/yeungchenwa/FontDiffuser/blob/main/figures/with_instructpix2pix.png?raw=true)
+
+#### 2023
+
 - **DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion**
     - Maham Tanveer, Yizhi Wang, Ali Mahdavi-Amiri, Hao Zhang
     - ICCV2023
@@ -125,19 +147,21 @@ If you discover relevant new work, please feel free to contact the major maintai
     
 ![](https://github.com/yizhiwang96/deepvecfont-v2/raw/main/statics/chinese_font_demo_syn_1.gif)
 
+#### 2022
+
+- **StrokeStyles: Stroke-based Segmentation and Stylization of Fonts**
+    - Daniel Berio, Frederic Fol Leymarie, Paul Asente, Jose Echevarria
+    - ACM Transactions on Graphics Volume 41 Issue 3 Article No.: 28 pp 1–21
+    - [[paper]](https://dl.acm.org/doi/10.1145/3505246)
+
+#### 2021
+
 - **DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning**
     - Yizhi Wang, Zhouhui Lian
     - SIGGRAPH Asia 2021
     - [[project page]](https://yizhiwang96.github.io/deepvecfont_homepage/)[[code]](https://github.com/yizhiwang96/deepvecfont)[[paper]](https://arxiv.org/abs/2110.06688)
 
 ![](https://yizhiwang96.github.io/deepvecfont_homepage/imgs/teaser.svg)
-
-- **StrokeStyles: Stroke-based Segmentation and Stylization of Fonts**
-    - Daniel Berio, Frederic Fol Leymarie, Paul Asente, Jose Echevarria
-    - ACM Transactions on GraphicsVolume 41Issue 3Article No.: 28pp 1–21
-    - [[paper]](https://dl.acm.org/doi/10.1145/3505246)
-
-
 
 - **DG-Font: Deformable Generative Networks for Unsupervised Font Generation**
     - Yangchen Xie, Xinyuan Chen, Li Sun, Yue Lu
@@ -180,6 +204,8 @@ If you discover relevant new work, please feel free to contact the major maintai
 ![](https://i.imgur.com/93RSv38.png)
 
 
+#### 2020
+
 - **RD-GAN: Few/Zero-Shot Chinese Character Style Transfer via Radical Decomposition and Rendering**
     - Yaoxiong Huang, Mengchao He, Lianwen Jin, Yongpan Wang
     - [[paper(ECVA)]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4880_ECCV_2020_paper.php)
@@ -204,6 +230,7 @@ If you discover relevant new work, please feel free to contact the major maintai
 
 ![](https://i.imgur.com/itv9IMn.png)
 
+#### 2019
 
 - **A Learned Representation for Scalable Vector Graphics**
     - [[paper]](https://arxiv.org/abs/1904.02632)
@@ -217,6 +244,7 @@ If you discover relevant new work, please feel free to contact the major maintai
     - [[paper]](https://arxiv.org/abs/1909.02072)[[page]](https://www.cs.rochester.edu/u/tchen45/font/font.html)
     - Tianlang Chen, Zhaowen Wang, Ning Xu, Hailin Jin, Jiebo Luo
     - ICCV 2019
+
 
 - **DynTypo: Example-based Dynamic Text Effects Transfer**
     - [[paper]](http://www.icst.pku.edu.cn/zlian/docs/2019-04/20190418093151169110.pdf)
@@ -236,11 +264,6 @@ If you discover relevant new work, please feel free to contact the major maintai
     - [[websites]](https://deepglyph.app/)
     - <iframe width="560" height="315" src="https://www.youtube.com/embed/T70k-0qgccs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- **Coconditional Autoencoding Adversarial Networks for Chinese Font Feature Learning**
-    - [[paper]](https://arxiv.org/abs/1812.04451)
-    - arxiv 2018
-    - Zhizhan Zheng, Feiyun Zhang
-
 - **TET-GAN: Text Effects Transfer via Stylization and Destylization**
     - [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3919)
     - Shuai Yang, Jiaying Liu, Wenjing Wang, Zongming Guo
@@ -254,6 +277,13 @@ If you discover relevant new work, please feel free to contact the major maintai
     - AAAI 2019
 
 ![](https://i.imgur.com/NzY6mF3.png)
+
+#### 2018
+
+- **Coconditional Autoencoding Adversarial Networks for Chinese Font Feature Learning**
+    - [[paper]](https://arxiv.org/abs/1812.04451)
+    - arxiv 2018
+    - Zhizhan Zheng, Feiyun Zhang
 
 - **Separating Style and Content for Generalized Style Transfer**
     - [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Separating_Style_and_CVPR_2018_paper.html)[[code]](https://github.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer)
@@ -291,6 +321,7 @@ If you discover relevant new work, please feel free to contact the major maintai
 
 ![](https://i.imgur.com/9i5bFS0.png)
 
+#### 2017
 
 - **DCFont: An End-To-End Deep Chinese Font Generation System**
     - [[paper]](http://www.icst.pku.edu.cn/zlian/docs/20181024110234919639.pdf)
@@ -306,6 +337,8 @@ If you discover relevant new work, please feel free to contact the major maintai
     - 2017
     
     ![](https://kaonashi-tyc.github.io/assets/intro.gif)
+
+#### 2016
 
 - **Rewrite: Neural Style Transfer For Chinese Fonts**
     - [[code]](https://github.com/kaonashi-tyc/Rewrite)
@@ -327,6 +360,8 @@ If you discover relevant new work, please feel free to contact the major maintai
 
 ![](http://genekogan.com/images/a-book-from-the-sky/banner.png)
 
+#### 1993
+
 - **Letter Spirit: An Emergent Model of the Perception and Creation of Alphabetic Style**
     - [[paper]](https://pdfs.semanticscholar.org/e03a/21a4dfaa34b3d43ab967a01d7d9f6f7adccf.pdf)
     - Douglas Hofstadter, Gary McGraw
@@ -340,6 +375,13 @@ If you discover relevant new work, please feel free to contact the major maintai
     
     ![](https://pbs.twimg.com/media/C22YtOvWEAA8XsT.jpg)
 
+- **Awesome Typography: Statistics-Based Text Effects Transfer**
+    - [[paper]](https://arxiv.org/pdf/1611.09026.pdf)[[code]](https://github.com/williamyang1991/Text-Effects-Transfer)
+    - Shuai Yang, Jiaying Liu, Zhouhui Lian and Zongming Guo
+    - CVPR 2017
+    
+    ![](https://pbs.twimg.com/media/CydToymWgAAbddo.jpg)
+
 - **FlexyFont: Learning Transferring Rules for Flexible Typeface Synthesis**
     - [[paper]](https://doi.org/10.1111/cgf.12763)
     - H. Q. Phan, H. Fu, and A. B. Chan
@@ -347,12 +389,11 @@ If you discover relevant new work, please feel free to contact the major maintai
     
     ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/616f7c6bf71946430db5561cfa4045a022f29f7f/4-Figure4-1.png)
 
-- **Awesome Typography: Statistics-Based Text Effects Transfer**
-    - [[paper]](https://arxiv.org/pdf/1611.09026.pdf)[[code]](https://github.com/williamyang1991/Text-Effects-Transfer)
-    - Shuai Yang, Jiaying Liu, Zhouhui Lian and Zongming Guo
-    - CVPR 2017
-    
-    ![](https://pbs.twimg.com/media/CydToymWgAAbddo.jpg)
+- **Automatic shape morphing for Chinese characters**
+    - [[paper]](https://dl.acm.org/citation.cfm?id=2407748)
+    - Zhouhui Lian, and Zhouhui Lian
+    - SIGGRAPH Asia 2012 
+    - ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/f4de25085605e82bd635666cd5676a7075e77520/2-Figure2-1.png)
 
 - **Easy generation of personal Chinese handwritten fonts**
     - [[paper]](https://ieeexplore.ieee.org/document/6011892/)
@@ -361,13 +402,13 @@ If you discover relevant new work, please feel free to contact the major maintai
     
     ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/4760fce6c4ce72b17abe9595f1e635b6ecef70fc/3-Figure2-1.png)
 
-- **Automatic shape morphing for Chinese characters**
-    - [[paper]](https://dl.acm.org/citation.cfm?id=2407748)
-    - Zhouhui Lian, and Zhouhui Lian
-    - SIGGRAPH Asia 2012 
-    - ![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/f4de25085605e82bd635666cd5676a7075e77520/2-Figure2-1.png)
 
 ## Struture Learning
+- **Deep Factorization of Style and Structure in Fonts**
+    - [[paper]](https://arxiv.org/abs/1910.00748)
+    - Nikita Srivatsan, Jonathan T. Barron, Dan Klein, Taylor Berg-Kirkpatrick
+    - EMNLP 2019
+
 - **Analyzing 50k fonts using deep neural networks**
     - [[blog]](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks.html)
     - [Erik Bernhardsson](https://erikbern.com/about.html)
@@ -383,7 +424,7 @@ If you discover relevant new work, please feel free to contact the major maintai
     ![](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/images/projects/font_hamburgefon_large.png)
 
 
-## DataSet
+## Dataset
 - **Chinese Handwriting Recognition Competition 2013**
     - [[paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwipwtmZ3NXdAhUJyrwKHYBuAp4QFjACegQIAxAC&url=http%3A%2F%2Fblog.sciencenet.cn%2Fhome.php%3Fmod%3Dattachment%26id%3D48833&usg=AOvVaw3z6eOWVROK6CCdPly6Te5n)[[download]](http://www.nlpr.ia.ac.cn/databases/handwriting/Download.html)
 
