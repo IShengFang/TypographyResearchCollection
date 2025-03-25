@@ -3,8 +3,13 @@
 
 Typography is the cross between technology and liberal arts. 
 This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
+If anyone found new research, please email it to me. 🙂
 
 ## Visual Text Generation and Editing
+
+- **Font-Agent: Enhancing Font Understanding with Large Language Models**
+    - Yingxin Lai · Cuijie Xu · Haitian Shi · Guoqing Yang · Xiaoning Li · Zhiming Luo · Shaozi Li
+    - CVPR 2025
 
 - **TypeDance: Creating Semantic Typographic Logos from Image throughPersonalized Generation**
     - Shishi Xiao, Liangwei Wang, Xiaojuan Ma, Wei Zeng
