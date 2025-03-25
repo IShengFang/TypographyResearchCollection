@@ -197,13 +197,10 @@ If you discover relevant new work, please feel free to contact the major maintai
 ![](https://i.imgur.com/JKD8brf.png)
 ![](https://i.imgur.com/1cD2G3p.png)
 
-- **CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator**
-    - [[paper]](https://arxiv.org/abs/2005.12500)[[code]](https://github.com/JeanWU/CalliGAN)
-    - Shan-Jean Wu, Chih-Yuan Yang and Jane Yung-jen Hsu
-    - AI for Content Creation Workshop CVPR 2020.
-
-![](https://i.imgur.com/itv9IMn.png)
-
+- **Deep Factorization of Style and Structure in Fonts**
+    - [[paper]](https://arxiv.org/abs/1910.00748)
+    - Nikita Srivatsan, Jonathan T. Barron, Dan Klein, Taylor Berg-Kirkpatrick
+    - EMNLP 2019
 
 - **A Learned Representation for Scalable Vector Graphics**
     - [[paper]](https://arxiv.org/abs/1904.02632)
@@ -217,6 +214,13 @@ If you discover relevant new work, please feel free to contact the major maintai
     - [[paper]](https://arxiv.org/abs/1909.02072)[[page]](https://www.cs.rochester.edu/u/tchen45/font/font.html)
     - Tianlang Chen, Zhaowen Wang, Ning Xu, Hailin Jin, Jiebo Luo
     - ICCV 2019
+
+- **CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator**
+    - [[paper]](https://arxiv.org/abs/2005.12500)[[code]](https://github.com/JeanWU/CalliGAN)
+    - Shan-Jean Wu, Chih-Yuan Yang and Jane Yung-jen Hsu
+    - AI for Content Creation Workshop CVPR 2020.
+
+![](https://i.imgur.com/itv9IMn.png)
 
 - **DynTypo: Example-based Dynamic Text Effects Transfer**
     - [[paper]](http://www.icst.pku.edu.cn/zlian/docs/2019-04/20190418093151169110.pdf)
