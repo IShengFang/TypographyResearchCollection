@@ -7,6 +7,7 @@ If you discover relevant new work, please feel free to contact the major maintai
 
 ## Contents
 - [Large Language Model](#large-language-model)
+- [Vision Language Model](#vision-language-model)
 - [Visual Text Generation and Editing](#visual-text-generation-and-editing)
 - [Font Stye Transfer and Glyph Generation](#font-stye-transfer-and-glyph-generation)
     - [NN Approach](#nn-approach)
@@ -23,9 +24,23 @@ If you discover relevant new work, please feel free to contact the major maintai
     - Yingxin Lai · Cuijie Xu · Haitian Shi · Guoqing Yang · Xiaoning Li · Zhiming Luo · Shaozi Li
     - CVPR 2025
 
+## Vision Language Model
+
+- **FontCLIP: A Semantic Typography Visual-Language Model for Multilingual Font Applications**
+    - Yuki Tatsukawa, I-Chao Shen, Anran Qi, Yuki Koyama, Takeo Igarashi, Ariel Shamir
+    - Eurographics 2024
+    - [[project page]](https://yukistavailable.github.io/fontclip.github.io/)[[paper]](https://jdily.github.io/resource/fontclip/fontCLIP_paper_open.pdf)[[arxiv]](https://arxiv.org/abs/2403.06453)[[code]](https://github.com/yukistavailable/FontCLIP)
+
+![](https://yukistavailable.github.io/fontclip.github.io/static/images/teaser.svg)
+
 ## Visual Text Generation and Editing
 
 ### 2024
+
+- **MATIC: Multilingual Accurate Textual Image Customization via Joint Generative Artificial Intelligence**
+    - Chiao-Hsin Wu, I-Wei Lai
+    - PacificVis 2025 Short Paper (Visnote) Track
+    
 
 - **AnyText: Multilingual Visual Text Generation And Editing**
     - Yuxiang Tuo, Wangmeng Xiang, Jun-Yan He, Yifeng Geng∗, Xuansong Xie
