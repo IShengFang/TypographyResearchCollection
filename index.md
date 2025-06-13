@@ -23,6 +23,7 @@ If you discover relevant new work, please feel free to contact the major maintai
 - **Font-Agent: Enhancing Font Understanding with Large Language Models**
     - Yingxin Lai · Cuijie Xu · Haitian Shi · Guoqing Yang · Xiaoning Li · Zhiming Luo · Shaozi Li
     - CVPR 2025
+    - [[CVF]](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_Font-Agent_Enhancing_Font_Understanding_with_Large_Language_Models_CVPR_2025_paper.html)
 
 ## Vision Language Model
 
@@ -107,6 +108,12 @@ If you discover relevant new work, please feel free to contact the major maintai
 
 ## Font Stye Transfer and Glyph Generation
 ### NN Approach
+
+#### 2025
+- **Zero-Shot Styled Text Image Generation, but Make It Autoregressive**
+    - Vittorio Pippi1∗, Fabio Quattrini1∗, Silvia Cascianelli, Alessio Tonioni, Rita Cucchiara
+    - CVPR 2025
+    - [[arxiv]](https://arxiv.org/abs/2503.17074)[[CVF]](https://openaccess.thecvf.com/content/CVPR2025/html/Pippi_Zero-Shot_Styled_Text_Image_Generation_but_Make_It_Autoregressive_CVPR_2025_paper.html)
 
 #### 2024
 
