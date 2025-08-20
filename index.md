@@ -36,8 +36,56 @@ If you discover relevant new work, please feel free to contact the major maintai
 
 ## Visual Text Generation and Editing
 
+### 2025
+
+- **TextMaster: A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control**
+    - Zhenyu Yan, Jian Wang, Aoqiang Wang, Yuhan Li, Wenxiang Shang, Ran Lin
+    - ICCV 2025
+    - [[Paper]](https://arxiv.org/abs/2410.09879)
+
+- **FonTS: Text Rendering with Typography and Style Controls**
+    - Wenda Shi, Yiren Song, Dengming Zhang, Jiaming Liu, Xingxing Zou
+    - ICCV 2025
+    - [[Paper]](https://arxiv.org/abs/2412.00136)[[Project Page]](https://wendashi.github.io/FonTS-Page/)[[Code]](https://github.com/ArtmeScienceLab/FonTS)[[Model]](https://huggingface.co/SSS/FonTS-SCA)[[Dataset]](https://huggingface.co/datasets/SSS/SC-artext)
+
+- **FontAnimate: High Quality Few-shot Font Generation via Animating Font Transfer Process**
+    - Bin Fu · Zixuan Wang · Kainan Yan · Shitian Zhao · Qi Qin · Jie Wen · Junjun He · Peng Gao
+    - ICCV 2025
+
+- **OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**
+    - Caoshuo Li, Zengmao Ding, Xiaobin Hu, Bang Li, Donghao Luo, AndyPian Wu, Chaoyang Wang, Chengjie Wang, Taisong Jin, SevenShu, Yunsheng Wu, Yongge Liu, Rongrong Ji
+    - ICCV 2025
+    - [[Paper]](https://arxiv.org/abs/2506.21101)[[Code]](https://github.com/lcs0215/OracleFusion)
+
+- **Dynamic Typography: Bringing Text to Life via Video Diffusion Prior**
+    - Zichen Liu*, Yihao Meng*, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
+    - ICCV 2025
+    - [[Paper]](https://arxiv.org/abs/2404.11614)[[Project Page]](https://animate-your-word.github.io/demo/)[[Code]](https://github.com/zliucz/animate-your-word)
+
+- **FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing**
+    -  Rui Lan*, Yancheng Bai*, Xu Duan, Mingxing Li, Dongyang Jin, Ryan Xu, Lei Sun, Xiangxiang Chu
+    -  [[Paper]](https://arxiv.org/abs/2505.03329)[[Project Page]](https://amap-ml.github.io/FLUX-text/)[[Model]](https://huggingface.co/GD-ML/FLUX-Text)
+
+- **GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing**
+    - Tong Wang, Ting Liu, Xiaochao Qu, Chengjing Wu, Luoqi Liu, Xiaolin Hu
+    - CVPR 2025
+    - [[Paper]](https://arxiv.org/abs/2505.04915)
+
 ### 2024
 
+
+- **Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering**
+    -  Zeyu Liu, Weicong Liang, Yiming Zhao, Bohan Chen, Lin Liang, Lijuan Wang, Ji Li, Yuhui Yuan
+    -  [[Paper]](https://arxiv.org/abs/2406.10208)[[Project Page]](https://glyph-byt5-v2.github.io/)
+ 
+- **Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering**
+    -  Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan
+    -  [[Paper]](https://arxiv.org/abs/2403.09622)[[Project Page]](https://glyph-byt5.github.io/)
+ 
+- **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**
+    - Jian Ma, Yonglin Deng, Chen Chen, Nanyang Du, Haonan Lu, Zhenyu Yang
+    - [[Paper]](https://arxiv.org/abs/2407.02252)[[Code]](https://github.com/OPPO-Mente-Lab/GlyphDraw2)
+ 
 - **MATIC: Multilingual Accurate Textual Image Customization via Joint Generative Artificial Intelligence**
     - Chiao-Hsin Wu, I-Wei Lai
     - PacificVis 2025 Short Paper (Visnote) Track
